@@ -1,0 +1,149 @@
+Running Task Here
+https://github.com/lreb/facware-base-frontend
+https://github.com/bradtraversy/50projects50days/blob/master/todo-list/script.js
+
+
+
+
+UX Design Learning Links:
+https://uxdesign.cc/
+https://www.smashingmagazine.com/cate...
+https://www.uxpin.com/knowledge.html
+http://uxmag.com/
+https://www.nngroup.com/
+http://www.uxbooth.com/
+
+UI Design Learning Links:
+https://designcode.io/
+http://trydesignlab.com/
+https://teamtreehouse.com/library/mob...
+https://www.udemy.com/ui-web-design-u...
+http://learnui.design/
+
+
+
+**DESIGN Component**
+https://undraw.co/illustrations
+https://www.iconfinder.com/search/illustrations?family=teenyicons-outline
+https://www.pexels.com/
+https://picsum.photos/
+https://colorhunt.co/
+https://www.cssmatic.com/
+https://neumorphism.io/#e0e0e0
+https://v-fonts.com/
+https://ui8.net/
+
+
+illustrator icons
+https://craftwork.design/
+https://icons8.com/illustrations/t/website
+https://www.getillustrations.com/illustration-packs
+https://ui8.net/
+https://iconscout.com/
+https://absurd.design/#slide-8
+
+for web design inspiration
+https://www.landingfolio.com/inspiration/landing-page/social-media
+https://www.awwwards.com/sites/tersa
+https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
+
+for mobile design inspiration
+https://screenlane.com/
+https://mobbin.com/browse/ios/apps
+https://pageflows.com/spotify/
+
+for mockup
+https://www.brandbird.app/studio?publicId=63eced426a6c432dc2a0e3e8
+https://artboard.studio/
+https://rotato.app/
+https://www.glorify.com/
+
+
+//pre built button
+https://uiverse.io/
+
+//clip path
+https://bennettfeely.com/clippy/
+
+//free animation generator
+https://keyframes.app/animate
+
+//all in one 
+https://www.evernote.design/
+
+//smooth shadow
+https://shadows.brumm.af/
+
+//get svg waves
+https://getwaves.io/
+
+//loader and button ,card design
+https://uiverse.io/
+
+//free stylies background
+https://bgjar.com/
+
+
+//Next project
+https://nicepage.com/website-templates/preview/engineering-firm-125559?device=desktop
+
+
+//Current project
+https://themes.getbootstrap.com/preview/?theme_id=103332
+
+//aurora background
+https://www.weareheroes.digital/resources/aurora#aurora
+
+
+=>=>=>=>=>=>=>ICON LINKS <=<=<=<=<=<=
+//Free svg icon
+https://iconmonstr.com/page/3/
+
+//WEB CODING ISSEUS
+https://regexr.com/
+
+//JS Library
+//Particle js
+https://vincentgarreau.com/particles.js/
+//Typed js
+https://github.com/mattboldt/typed.js/
+//Scroll Reveal
+https://scrollrevealjs.org/
+//Free live chat on web
+https://www.tawk.to/
+
+//Responsive design test
+http://www.responsinator.com/?url=https://www.intlum.com/
+
+ux/ui tips :
+color-:
+mycolorspace
+colorasycology
+https://color.adobe.com/create/color-wheel
+
+
+font soze-:
+https://www.fontsinthewild.com/
+https://fontsinuse.com/
+https://www.typewolf.com/
+
+
+FREE BULK SMS SERVICES
+URL : https://control.textlocal.in/login/
+URL : https://msg91.com/
+API KEY : YmQwMmU4OWZhM2MxMmM0NjRlMWMwYjIxZjcyNWJhN2U=
+
+
+
+
+//Form email integration
+https://formspree.io/forms/mnqkqver/integration
+
+//slider integration
+https://swiperjs.com/plugins#carousel-slider
+https://uiinitiative.com/
+
+npm module
+body parswer
+dotenv
+morgan
