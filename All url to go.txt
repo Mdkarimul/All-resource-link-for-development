@@ -116,7 +116,6 @@ https://www.tawk.to/
 http://www.responsinator.com/?url=https://www.intlum.com/
 
 ux/ui tips :
-color-:
 mycolorspace
 colorasycology
 https://color.adobe.com/create/color-wheel
@@ -142,6 +141,9 @@ https://formspree.io/forms/mnqkqver/integration
 //slider integration
 https://swiperjs.com/plugins#carousel-slider
 https://uiinitiative.com/
+
+//make animation website using
+https://greensock.com/showcase/
 
 npm module
 body parswer
