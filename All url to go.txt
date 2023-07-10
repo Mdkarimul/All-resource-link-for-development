@@ -71,6 +71,9 @@ https://keyframes.app/animate
 https://animista.net/play/text/pop-up
 http://animation.kaustubhmenon.com/
 https://www.minimamente.com/project/magic/
+https://coderpad.io/blog/development/top-10-css-animation-libraries/#animationlibrary
+https://jonsuh.com/hamburgers/
+
 
 //all in one 
 https://www.evernote.design/
