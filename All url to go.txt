@@ -144,6 +144,7 @@ https://uiinitiative.com/
 
 //make animation website using
 https://greensock.com/showcase/
+https://github.com/locomotivemtl/locomotive-scroll
 
 npm module
 body parswer
